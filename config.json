@@ -1,0 +1,29 @@
+[{
+  "Url": "https://id.kuaishou.com/pass/kuaishou/sms/requestMobileCode?sid=kuaishou.server.web&type=53&countryCode=%2B86&account=&ztIdentityVerificationType=&ztIdentityVerificationCheckToken=&channelType=UNKNOWN&encryptHeaders=",
+  "Method": "POST",
+  "Name": "快手",
+  "ParamsType": "",
+  "ParamsBody": "",
+  "Ignore": true
+},{
+  "Url": "https://reg.ztgame.com/common/sendmpcode?source=giant_site&nonce=&type=verifycode&token=&refurl=https%3A%2F%2Flogin.ztgame.com%2F&cururl=http%3A%2F%2Freg.ztgame.com%2F&mpcode=&pwd=n9TcK7uXP3cCK9g&tname=%E7%8E%8B%E5%8F%8C%E6%B4%8B&idcard=41102319901021601x",
+  "Method": "GET",
+  "Name": "巨人网络",
+  "ParamsType": "",
+  "ParamsBody": "",
+  "Ignore": true
+},{
+  "Url": "https://video-center.ku6.com/video-center/user/verifycode?phone=13051102520&type=1",
+  "Method": "POST",
+  "Name": "酷6网",
+  "ParamsType": "",
+  "ParamsBody": "",
+  "Ignore": true
+},{
+  "Url": "",
+  "Method": "POST",
+  "Name": "",
+  "ParamsType": "",
+  "ParamsBody": "",
+  "Ignore": true
+}]
